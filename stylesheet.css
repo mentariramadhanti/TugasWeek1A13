@@ -103,3 +103,30 @@ p {
     margin: 10px 0px 10px 0px;
     padding: 10px 0px 10px 0px;
 }
+.footer {
+    background-color: #e67e22;
+    color: #fff;
+    height: 120px;
+    padding: 60px;
+    margin: auto;
+}
+.footer-logo {
+    float: left;
+    font-size: 25px;
+}
+.footer-logo p {
+    font-size: 12px;
+}
+.footer-list {
+    float: right;
+    transition: all 1s;
+}
+.footer-list li:hover {
+    background-color: #fff;
+    opacity: 0.3;
+  }
+.footer-list li {
+    position: relative;
+    list-style: none;
+    padding-bottom: 20px;
+}
