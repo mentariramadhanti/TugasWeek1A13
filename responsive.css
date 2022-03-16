@@ -1,0 +1,33 @@
+@media all and(max-width:1000px){
+  .wrapper{
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  .container h1{
+    font-size: 25px;
+  }
+  .container h2{
+    font-size: 20px;
+  }
+}
+
+@media all and(max-width: 670px){
+  .top-wrapper{
+    width: 100%
+  }
+  footer {
+    text-align: center;
+  }
+  .services{
+    width: 100%;
+  }
+  .header-right{
+    display: none;
+  }
+  .media-icon{
+    display: block;
+  }
+  .pictures{
+    width: 100%;
+  }
+}
