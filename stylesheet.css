@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.info{
+	background: #001219;
+	padding: 30px;
+}
+
+.call{
+	color: white;
+	width: 20%;
+	height: 25%;
+	margin: 0px 0px 8px;
+	display: inline-block;
+}
+.text h3{
+	height: 25%;
+}
+
+.services{
+	font-style: oblique;
+	color: #1d150b;
+	background-color: #dda15e;
+	background-image: 
+
+}
+.row{
+	text-align: center;
+	font-weight: normal;
+}
+.media{
+	margin:25px;
+	display: inline-block;
+  	width: 35%;
+}
+.media-icon img{
+	position: relative;
+	margin: 10px;
+	width: 50px;
+	height: 50px;
+}
+.wrapper{
+	background-color: #001219;
+	color: white;
+}
+section{
+	margin: auto;
+	display: flex;
+}
+.heading p {
+	margin:20px;
+	width: auto;
+	font-size: 18px;
+}
+.heading{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	float: right;
+	text-align: left;
+}
+
+.heading span{
+	margin: 20px;
+	
+	font-family: 'Great Vibe', cursive;
+	font-size: 30px;
+}
+.heading h2{
+	margin: 20px;
+	font-size: 40px;
+}
+.pictures{
+	float: right;
+	display: inline-block;
+  	width: 100%;
+}
+.pictures img{
+	margin-top: 25px;
+	margin-right: 25px;
+	margin-left: 25px;
+	height: 35%;
+	width: 35%;
+}
+a.tbl-brown{
+	background: #ddb892;
+	border-radius: 20px;
+	margin-top: 20px;
+	padding: 15px 20px 15px 20px;
+	cursor: pointer;
+	font-weight: bold;
+	border: none;
+	display: inline-block;
+}
+a.tbl-brown:hover {
+    background: #9c6644;
+    text-decoration: none;
+}
+p {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
